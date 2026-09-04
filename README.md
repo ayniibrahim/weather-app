@@ -6,15 +6,17 @@ Modern Weather Intelligence Dashboard
 
 ## 📸 Screenshots
 
-Dashboard
-[weather dashboard1.png]
-[weather dashboard.png]
+### 🌤️ Weather Dashboard
 
-Weather Map & Radar
-[map.png]
+![Weatherly Dashboard](./weather%20dashboard.png)
 
-Settings
-[weather setting.png]
+### 🗺️ Weather Map & Radar
+
+![Weatherly Map](./map.png)
+
+### ⚙️ Settings
+
+![Weatherly Settings](./weather%20setting.png)
 
 ## ✨ Features
 - Real-time weather data
