@@ -1,0 +1,7 @@
+{
+  "name": "Weatherly",
+  "description": "Production-grade atmospheric SaaS weather dashboard powered by Open-Meteo API, featuring 24-hour trajectories, 7-day outlooks, hyper-local telemetry, and real-time geocoding.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
