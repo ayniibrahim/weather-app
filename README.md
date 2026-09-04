@@ -8,7 +8,7 @@ A modern, responsive weather application built with React.js that provides real-
 
 ### 🌤️ Weather Dashboard
 
-![Weatherly Dashboard](./weather%20dashboard.png)
+![Weatherly Dashboard](./weather%20dashboard1.png)
 
 ### 🗺️ Weather Map & Radar
 
