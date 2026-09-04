@@ -1,6 +1,6 @@
-# 🌤️ Weatherly
+🌤️ Weatherly — Modern Weather Application
 
-Modern Weather Intelligence Dashboard
+A modern, responsive weather application built with React.js that provides real-time weather information, hourly forecasts, and a 7-day weather forecast through the Open-Meteo API.
 
 [[Live Demo](https://weather-app-topaz-beta-88.vercel.app/)] • [GitHub]
 
