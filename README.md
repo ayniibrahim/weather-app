@@ -2,13 +2,14 @@
 
 A modern, responsive weather application built with React.js that provides real-time weather information, hourly forecasts, and a 7-day weather forecast through the Open-Meteo API.
 
-[[Live Demo](https://weather-app-topaz-beta-88.vercel.app/)] • [GitHub]
+[[Live Demo](https://weather-app-topaz-beta-88.vercel.app/)] • [[GitHub](https://github.com/ayniibrahim/weather-app)]
 
 ## 📸 Screenshots
 
 ### 🌤️ Weather Dashboard
 
 ![Weatherly Dashboard](./weather%20dashboard1.png)
+![Weatherly Dashboard](./weather%20dashboard.png)
 
 ### 🗺️ Weather Map & Radar
 
@@ -69,7 +70,7 @@ Desktop, tablet and mobile optimized.
 
 Ayni Ibrahim
 Full-Stack Web Developer
-
+my portfolia :https://ayni-portfolia.vercel.app/#
 ## 📄 License
 
 MIT
